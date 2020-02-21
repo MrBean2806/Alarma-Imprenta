@@ -16,7 +16,7 @@
 Scheduler userScheduler; // to control your personal task
 painlessMesh  mesh;
 
-// User stubbb
+// User stub
 void sendMessage() ; // Prototype so PlatformIO doesn't complain
 
 Task taskSendMessage( TASK_SECOND * 1 , TASK_FOREVER, &sendMessage );
