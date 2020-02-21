@@ -8,7 +8,6 @@
 //************************************************************
 #include "painlessMesh.h"
 
-
 #define   MESH_PREFIX     "mesichiqito"
 #define   MESH_PASSWORD   "mesichiqito"
 #define   MESH_PORT       5555
